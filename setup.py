@@ -16,3 +16,8 @@ print("unzipping...")
 os.system("unzip vosk-model-small-en-us-0.15.zip")
 
 os.system("mv vosk-model-small-en-us-0.15 model")
+
+time.sleep(1)
+print("downloading required python modules...")
+os.system("pip install webrtcvad")
+os.system("pip install SpeechRecognition vosk pyaudio")
