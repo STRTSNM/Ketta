@@ -7,7 +7,7 @@ Dear devlopers,
 
 Important note!!! : This build only works on linux(preferably arch linux) but we will sonn port it to other OSes as well.
 
-Requiremets : wget, unzip(this is mosly preinstalled in all linux)
+Requiremets : wget, unzip(this is mosly preinstalled in all linux) and docker(if you want to do speech syntheses)
 
 Step 1: run the setup.py file to download the required models.
 Step 2(The last one..) : run the vad.py file to start the assistant.
