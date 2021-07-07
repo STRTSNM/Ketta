@@ -5,7 +5,7 @@ Dear devlopers,
               
 # Installation
 
-Important note!!! : This build only works on linux(preferably arch linux) but we will sonn port it to other OSes as well.
+Important note!!! : This build only works on linux(preferably arch linux) but we will sonn port it to other OSes as well. Also installing Ketta may take a while.
 
 Requiremets : wget, unzip(this is mosly preinstalled in all linux) and docker(if you want to do speech syntheses)
 
