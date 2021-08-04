@@ -15,3 +15,5 @@ Step 2(The last one..) : run the vad.py file to start the assistant.
 
 Disclaimer : There are situations when the vad.py file will not close when you press ctrl+c. In that case, please close that terminal 
 and use a new one.
+
+Please visit : https://github.com/STRT-Official/Ketta-Official for stable releases.
